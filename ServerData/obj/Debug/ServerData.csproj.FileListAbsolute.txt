@@ -1,0 +1,5 @@
+c:\users\luvoc\documents\visual studio 2015\Projects\Chat Server\ServerData\bin\Debug\ServerData.dll
+c:\users\luvoc\documents\visual studio 2015\Projects\Chat Server\ServerData\bin\Debug\ServerData.pdb
+c:\users\luvoc\documents\visual studio 2015\Projects\Chat Server\ServerData\obj\Debug\ServerData.csprojResolveAssemblyReference.cache
+c:\users\luvoc\documents\visual studio 2015\Projects\Chat Server\ServerData\obj\Debug\ServerData.dll
+c:\users\luvoc\documents\visual studio 2015\Projects\Chat Server\ServerData\obj\Debug\ServerData.pdb
